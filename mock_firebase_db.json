@@ -1,0 +1,2396 @@
+[
+  {
+    "solarYield": 2.13,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:00.105467",
+    "logTime": "2026-04-08T09:16:00.105605"
+  },
+  {
+    "solarYield": 2.59,
+    "gridUsage": 0.8,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:05.106778",
+    "logTime": "2026-04-08T09:16:05.108690"
+  },
+  {
+    "solarYield": 2.4,
+    "gridUsage": 1.05,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:10.106819",
+    "logTime": "2026-04-08T09:16:10.109519"
+  },
+  {
+    "solarYield": 2.27,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:15.344481",
+    "logTime": "2026-04-08T09:16:15.344981"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:20.511857",
+    "logTime": "2026-04-08T09:16:20.512461"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:25.112519",
+    "logTime": "2026-04-08T09:16:25.112993"
+  },
+  {
+    "solarYield": 2.78,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:30.231576",
+    "logTime": "2026-04-08T09:16:30.232119"
+  },
+  {
+    "solarYield": 2.91,
+    "gridUsage": 0.7,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:35.108389",
+    "logTime": "2026-04-08T09:16:35.109830"
+  },
+  {
+    "solarYield": 2.88,
+    "gridUsage": 0.85,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:40.114725",
+    "logTime": "2026-04-08T09:16:40.115296"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 1.49,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:45.108384",
+    "logTime": "2026-04-08T09:16:45.109823"
+  },
+  {
+    "solarYield": 2.32,
+    "gridUsage": 1.51,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:50.106884",
+    "logTime": "2026-04-08T09:16:50.108068"
+  },
+  {
+    "solarYield": 2.95,
+    "gridUsage": 0.72,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:16:55.109990",
+    "logTime": "2026-04-08T09:16:55.111931"
+  },
+  {
+    "solarYield": 2.46,
+    "gridUsage": 1.4,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:00.110001",
+    "logTime": "2026-04-08T09:17:00.117219"
+  },
+  {
+    "solarYield": 2.83,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:05.111156",
+    "logTime": "2026-04-08T09:17:05.113396"
+  },
+  {
+    "solarYield": 2.93,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:10.111642",
+    "logTime": "2026-04-08T09:17:10.113838"
+  },
+  {
+    "solarYield": 2.49,
+    "gridUsage": 1.29,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:15.109916",
+    "logTime": "2026-04-08T09:17:15.118402"
+  },
+  {
+    "solarYield": 2.69,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:20.110579",
+    "logTime": "2026-04-08T09:17:20.112692"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.17,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:25.110098",
+    "logTime": "2026-04-08T09:17:25.111834"
+  },
+  {
+    "solarYield": 2.8,
+    "gridUsage": 0.51,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:30.111280",
+    "logTime": "2026-04-08T09:17:30.113820"
+  },
+  {
+    "solarYield": 2.14,
+    "gridUsage": 1.17,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:35.112342",
+    "logTime": "2026-04-08T09:17:35.116673"
+  },
+  {
+    "solarYield": 2.38,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:40.111274",
+    "logTime": "2026-04-08T09:17:40.113451"
+  },
+  {
+    "solarYield": 2.96,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:45.110357",
+    "logTime": "2026-04-08T09:17:45.112704"
+  },
+  {
+    "solarYield": 2.71,
+    "gridUsage": 1.09,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:50.109164",
+    "logTime": "2026-04-08T09:17:50.111399"
+  },
+  {
+    "solarYield": 2.84,
+    "gridUsage": 0.81,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:17:55.113096",
+    "logTime": "2026-04-08T09:17:55.119177"
+  },
+  {
+    "solarYield": 2.52,
+    "gridUsage": 1.05,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:00.110726",
+    "logTime": "2026-04-08T09:18:00.113022"
+  },
+  {
+    "solarYield": 3.1,
+    "gridUsage": 0.71,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:05.110882",
+    "logTime": "2026-04-08T09:18:05.114689"
+  },
+  {
+    "solarYield": 2.68,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:10.111836",
+    "logTime": "2026-04-08T09:18:10.114379"
+  },
+  {
+    "solarYield": 2.18,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:15.113046",
+    "logTime": "2026-04-08T09:18:15.124285"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.68,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:20.110412",
+    "logTime": "2026-04-08T09:18:20.112700"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:25.116889",
+    "logTime": "2026-04-08T09:18:25.119326"
+  },
+  {
+    "solarYield": 2.9,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:30.108316",
+    "logTime": "2026-04-08T09:18:30.110386"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:35.108350",
+    "logTime": "2026-04-08T09:18:35.109775"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:40.112532",
+    "logTime": "2026-04-08T09:18:40.116476"
+  },
+  {
+    "solarYield": 2.56,
+    "gridUsage": 0.59,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:45.108903",
+    "logTime": "2026-04-08T09:18:45.111546"
+  },
+  {
+    "solarYield": 2.58,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:50.110211",
+    "logTime": "2026-04-08T09:18:50.114663"
+  },
+  {
+    "solarYield": 2.16,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:18:55.110921",
+    "logTime": "2026-04-08T09:18:55.116053"
+  },
+  {
+    "solarYield": 2.47,
+    "gridUsage": 1.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:00.110755",
+    "logTime": "2026-04-08T09:19:00.113129"
+  },
+  {
+    "solarYield": 2.64,
+    "gridUsage": 1.12,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:05.111332",
+    "logTime": "2026-04-08T09:19:05.114607"
+  },
+  {
+    "solarYield": 2.23,
+    "gridUsage": 0.77,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:10.108197",
+    "logTime": "2026-04-08T09:19:10.110641"
+  },
+  {
+    "solarYield": 2.48,
+    "gridUsage": 0.89,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:15.110496",
+    "logTime": "2026-04-08T09:19:15.118821"
+  },
+  {
+    "solarYield": 2.98,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:20.112846",
+    "logTime": "2026-04-08T09:19:20.115302"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 1.13,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:25.111516",
+    "logTime": "2026-04-08T09:19:25.113904"
+  },
+  {
+    "solarYield": 3.04,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:30.114718",
+    "logTime": "2026-04-08T09:19:30.117350"
+  },
+  {
+    "solarYield": 2.33,
+    "gridUsage": 1.44,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:35.110984",
+    "logTime": "2026-04-08T09:19:35.113765"
+  },
+  {
+    "solarYield": 2.63,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:40.110164",
+    "logTime": "2026-04-08T09:19:40.111994"
+  },
+  {
+    "solarYield": 2.71,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:45.111082",
+    "logTime": "2026-04-08T09:19:45.120164"
+  },
+  {
+    "solarYield": 2.23,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:50.113329",
+    "logTime": "2026-04-08T09:19:50.114156"
+  },
+  {
+    "solarYield": 2.93,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:19:55.111322",
+    "logTime": "2026-04-08T09:19:55.113649"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 1.19,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:00.111834",
+    "logTime": "2026-04-08T09:20:00.114982"
+  },
+  {
+    "solarYield": 2.24,
+    "gridUsage": 1.38,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:05.110801",
+    "logTime": "2026-04-08T09:20:05.113419"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 1.47,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:10.111845",
+    "logTime": "2026-04-08T09:20:10.114201"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 1.14,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:15.110342",
+    "logTime": "2026-04-08T09:20:15.112749"
+  },
+  {
+    "solarYield": 2.56,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:20.111889",
+    "logTime": "2026-04-08T09:20:20.116120"
+  },
+  {
+    "solarYield": 2.64,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:25.110666",
+    "logTime": "2026-04-08T09:20:25.115626"
+  },
+  {
+    "solarYield": 2.3,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:30.111060",
+    "logTime": "2026-04-08T09:20:30.114511"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:35.107927",
+    "logTime": "2026-04-08T09:20:35.109530"
+  },
+  {
+    "solarYield": 2.51,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:40.111370",
+    "logTime": "2026-04-08T09:20:40.118506"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.24,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:45.112056",
+    "logTime": "2026-04-08T09:20:45.114636"
+  },
+  {
+    "solarYield": 2.53,
+    "gridUsage": 0.8,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:50.110871",
+    "logTime": "2026-04-08T09:20:50.114476"
+  },
+  {
+    "solarYield": 3.08,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:20:55.114803",
+    "logTime": "2026-04-08T09:20:55.117657"
+  },
+  {
+    "solarYield": 2.27,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:00.111711",
+    "logTime": "2026-04-08T09:21:00.118438"
+  },
+  {
+    "solarYield": 2.59,
+    "gridUsage": 1.18,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:05.111663",
+    "logTime": "2026-04-08T09:21:05.114064"
+  },
+  {
+    "solarYield": 2.43,
+    "gridUsage": 0.64,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:10.112069",
+    "logTime": "2026-04-08T09:21:10.114426"
+  },
+  {
+    "solarYield": 2.74,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:15.111307",
+    "logTime": "2026-04-08T09:21:15.116197"
+  },
+  {
+    "solarYield": 2.2,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:20.111498",
+    "logTime": "2026-04-08T09:21:20.114244"
+  },
+  {
+    "solarYield": 2.63,
+    "gridUsage": 0.72,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:25.112049",
+    "logTime": "2026-04-08T09:21:25.116466"
+  },
+  {
+    "solarYield": 2.64,
+    "gridUsage": 0.86,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:27.732212",
+    "logTime": "2026-04-08T09:21:27.734413"
+  },
+  {
+    "solarYield": 2.81,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:32.741069",
+    "logTime": "2026-04-08T09:21:32.748977"
+  },
+  {
+    "solarYield": 2.95,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:37.740292",
+    "logTime": "2026-04-08T09:21:37.743094"
+  },
+  {
+    "solarYield": 2.63,
+    "gridUsage": 1.25,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:42.738351",
+    "logTime": "2026-04-08T09:21:42.741854"
+  },
+  {
+    "solarYield": 3.04,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:47.739786",
+    "logTime": "2026-04-08T09:21:47.748178"
+  },
+  {
+    "solarYield": 2.66,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:52.740328",
+    "logTime": "2026-04-08T09:21:52.743763"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.3,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:21:57.740826",
+    "logTime": "2026-04-08T09:21:57.752726"
+  },
+  {
+    "solarYield": 2.39,
+    "gridUsage": 1.29,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:02.737566",
+    "logTime": "2026-04-08T09:22:02.739495"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 1.28,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:07.739485",
+    "logTime": "2026-04-08T09:22:07.742921"
+  },
+  {
+    "solarYield": 2.55,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:12.736670",
+    "logTime": "2026-04-08T09:22:12.739182"
+  },
+  {
+    "solarYield": 2.89,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:17.741785",
+    "logTime": "2026-04-08T09:22:17.749266"
+  },
+  {
+    "solarYield": 2.33,
+    "gridUsage": 1.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:22.738714",
+    "logTime": "2026-04-08T09:22:22.742039"
+  },
+  {
+    "solarYield": 2.85,
+    "gridUsage": 0.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:27.742737",
+    "logTime": "2026-04-08T09:22:27.748857"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.38,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:32.740008",
+    "logTime": "2026-04-08T09:22:32.747889"
+  },
+  {
+    "solarYield": 2.46,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:37.741702",
+    "logTime": "2026-04-08T09:22:37.744546"
+  },
+  {
+    "solarYield": 2.82,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:42.737483",
+    "logTime": "2026-04-08T09:22:42.739731"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.56,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:47.737295",
+    "logTime": "2026-04-08T09:22:47.743588"
+  },
+  {
+    "solarYield": 2.88,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:52.740346",
+    "logTime": "2026-04-08T09:22:52.748236"
+  },
+  {
+    "solarYield": 2.21,
+    "gridUsage": 1.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:22:57.739256",
+    "logTime": "2026-04-08T09:22:57.744765"
+  },
+  {
+    "solarYield": 2.94,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:02.737456",
+    "logTime": "2026-04-08T09:23:02.742671"
+  },
+  {
+    "solarYield": 2.42,
+    "gridUsage": 1.11,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:07.736580",
+    "logTime": "2026-04-08T09:23:07.739532"
+  },
+  {
+    "solarYield": 2.68,
+    "gridUsage": 0.9,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:12.741237",
+    "logTime": "2026-04-08T09:23:12.745724"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 1.07,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:17.737435",
+    "logTime": "2026-04-08T09:23:17.742169"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.84,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:22.739357",
+    "logTime": "2026-04-08T09:23:22.743057"
+  },
+  {
+    "solarYield": 2.57,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:27.738002",
+    "logTime": "2026-04-08T09:23:27.741570"
+  },
+  {
+    "solarYield": 2.83,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:32.737275",
+    "logTime": "2026-04-08T09:23:32.747122"
+  },
+  {
+    "solarYield": 2.66,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:37.737988",
+    "logTime": "2026-04-08T09:23:37.740286"
+  },
+  {
+    "solarYield": 2.42,
+    "gridUsage": 0.87,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:42.737458",
+    "logTime": "2026-04-08T09:23:42.743956"
+  },
+  {
+    "solarYield": 2.76,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:47.739223",
+    "logTime": "2026-04-08T09:23:47.742312"
+  },
+  {
+    "solarYield": 2.89,
+    "gridUsage": 0.61,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:52.741080",
+    "logTime": "2026-04-08T09:23:52.751175"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:23:57.741366",
+    "logTime": "2026-04-08T09:23:57.745566"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 0.84,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:02.742064",
+    "logTime": "2026-04-08T09:24:02.754453"
+  },
+  {
+    "solarYield": 2.47,
+    "gridUsage": 0.72,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:07.744549",
+    "logTime": "2026-04-08T09:24:07.753148"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:12.743749",
+    "logTime": "2026-04-08T09:24:12.760655"
+  },
+  {
+    "solarYield": 2.31,
+    "gridUsage": 0.76,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:17.803399",
+    "logTime": "2026-04-08T09:24:17.811280"
+  },
+  {
+    "solarYield": 2.16,
+    "gridUsage": 0.84,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:22.787788",
+    "logTime": "2026-04-08T09:24:22.803572"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 1.51,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:27.759387",
+    "logTime": "2026-04-08T09:24:27.765114"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 0.61,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:32.751195",
+    "logTime": "2026-04-08T09:24:32.754511"
+  },
+  {
+    "solarYield": 3.06,
+    "gridUsage": 0.62,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:37.737421",
+    "logTime": "2026-04-08T09:24:37.739833"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 0.53,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:42.744003",
+    "logTime": "2026-04-08T09:24:42.746615"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 0.86,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:47.736975",
+    "logTime": "2026-04-08T09:24:47.737579"
+  },
+  {
+    "solarYield": 2.75,
+    "gridUsage": 0.98,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:52.737127",
+    "logTime": "2026-04-08T09:24:52.741633"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:24:57.748127",
+    "logTime": "2026-04-08T09:24:57.755398"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.55,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:02.742507",
+    "logTime": "2026-04-08T09:25:02.746178"
+  },
+  {
+    "solarYield": 2.82,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:07.733051",
+    "logTime": "2026-04-08T09:25:07.733674"
+  },
+  {
+    "solarYield": 2.53,
+    "gridUsage": 0.9,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:12.738149",
+    "logTime": "2026-04-08T09:25:12.740944"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 1.11,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:17.733659",
+    "logTime": "2026-04-08T09:25:17.736364"
+  },
+  {
+    "solarYield": 2.31,
+    "gridUsage": 1.66,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:22.735793",
+    "logTime": "2026-04-08T09:25:22.740385"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 1.15,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:27.733603",
+    "logTime": "2026-04-08T09:25:27.736485"
+  },
+  {
+    "solarYield": 2.66,
+    "gridUsage": 1.01,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:32.745629",
+    "logTime": "2026-04-08T09:25:32.746435"
+  },
+  {
+    "solarYield": 2.48,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:37.248416",
+    "logTime": "2026-04-08T09:25:37.253667"
+  },
+  {
+    "solarYield": 3.02,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:37.748802",
+    "logTime": "2026-04-08T09:25:37.750392"
+  },
+  {
+    "solarYield": 3.07,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:42.259490",
+    "logTime": "2026-04-08T09:25:42.260435"
+  },
+  {
+    "solarYield": 2.84,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:42.732896",
+    "logTime": "2026-04-08T09:25:42.734683"
+  },
+  {
+    "solarYield": 2.92,
+    "gridUsage": 0.93,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:47.250270",
+    "logTime": "2026-04-08T09:25:47.253180"
+  },
+  {
+    "solarYield": 2.35,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:47.731661",
+    "logTime": "2026-04-08T09:25:47.735107"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 1.43,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:52.252998",
+    "logTime": "2026-04-08T09:25:52.253877"
+  },
+  {
+    "solarYield": 2.68,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:52.731357",
+    "logTime": "2026-04-08T09:25:52.738983"
+  },
+  {
+    "solarYield": 2.24,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:57.251676",
+    "logTime": "2026-04-08T09:25:57.253506"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.62,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:25:57.731308",
+    "logTime": "2026-04-08T09:25:57.734048"
+  },
+  {
+    "solarYield": 2.25,
+    "gridUsage": 1.58,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:02.257162",
+    "logTime": "2026-04-08T09:26:02.259134"
+  },
+  {
+    "solarYield": 2.83,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:02.734361",
+    "logTime": "2026-04-08T09:26:02.735124"
+  },
+  {
+    "solarYield": 2.71,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:07.256848",
+    "logTime": "2026-04-08T09:26:07.257911"
+  },
+  {
+    "solarYield": 2.79,
+    "gridUsage": 0.94,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:07.894869",
+    "logTime": "2026-04-08T09:26:07.895140"
+  },
+  {
+    "solarYield": 2.81,
+    "gridUsage": 0.51,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:12.278096",
+    "logTime": "2026-04-08T09:26:12.278416"
+  },
+  {
+    "solarYield": 2.21,
+    "gridUsage": 1.7,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:17.292484",
+    "logTime": "2026-04-08T09:26:17.293653"
+  },
+  {
+    "solarYield": 2.59,
+    "gridUsage": 0.85,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:22.302000",
+    "logTime": "2026-04-08T09:26:22.303737"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 0.67,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:27.312710",
+    "logTime": "2026-04-08T09:26:27.314867"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.28,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:32.329952",
+    "logTime": "2026-04-08T09:26:32.336193"
+  },
+  {
+    "solarYield": 2.39,
+    "gridUsage": 1.27,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:37.331696",
+    "logTime": "2026-04-08T09:26:37.332782"
+  },
+  {
+    "solarYield": 3.05,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:42.347031",
+    "logTime": "2026-04-08T09:26:42.348419"
+  },
+  {
+    "solarYield": 2.58,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:48.186469",
+    "logTime": "2026-04-08T09:26:48.186926"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 1.66,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:26:56.406852",
+    "logTime": "2026-04-08T09:26:56.407418"
+  },
+  {
+    "solarYield": 2.5,
+    "gridUsage": 0.59,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:27:04.728351",
+    "logTime": "2026-04-08T09:27:04.728844"
+  },
+  {
+    "solarYield": 2.99,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:27:19.008198",
+    "logTime": "2026-04-08T09:27:19.013993"
+  },
+  {
+    "solarYield": 2.88,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:27:26.204237",
+    "logTime": "2026-04-08T09:27:26.205402"
+  },
+  {
+    "solarYield": 2.35,
+    "gridUsage": 0.82,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:27:46.239279",
+    "logTime": "2026-04-08T09:27:46.240493"
+  },
+  {
+    "solarYield": 2.21,
+    "gridUsage": 0.68,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:28:06.197041",
+    "logTime": "2026-04-08T09:28:06.198628"
+  },
+  {
+    "solarYield": 2.86,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:28:26.242110",
+    "logTime": "2026-04-08T09:28:26.247150"
+  },
+  {
+    "solarYield": 2.9,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:28:46.240875",
+    "logTime": "2026-04-08T09:28:46.244436"
+  },
+  {
+    "solarYield": 2.74,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:28:54.783365",
+    "logTime": "2026-04-08T09:28:54.783818"
+  },
+  {
+    "solarYield": 2.58,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:28:59.772735",
+    "logTime": "2026-04-08T09:28:59.775575"
+  },
+  {
+    "solarYield": 2.67,
+    "gridUsage": 1.23,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:04.782754",
+    "logTime": "2026-04-08T09:29:04.784097"
+  },
+  {
+    "solarYield": 2.34,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:09.793377",
+    "logTime": "2026-04-08T09:29:09.796071"
+  },
+  {
+    "solarYield": 2.37,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:14.801157",
+    "logTime": "2026-04-08T09:29:14.802791"
+  },
+  {
+    "solarYield": 2.55,
+    "gridUsage": 0.54,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:19.871134",
+    "logTime": "2026-04-08T09:29:19.874895"
+  },
+  {
+    "solarYield": 2.35,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:26.649137",
+    "logTime": "2026-04-08T09:29:26.649911"
+  },
+  {
+    "solarYield": 2.93,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:35.796630",
+    "logTime": "2026-04-08T09:29:35.797746"
+  },
+  {
+    "solarYield": 2.85,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:29:49.829106",
+    "logTime": "2026-04-08T09:29:49.830706"
+  },
+  {
+    "solarYield": 2.78,
+    "gridUsage": 0.81,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:01.238493",
+    "logTime": "2026-04-08T09:30:01.242139"
+  },
+  {
+    "solarYield": 2.38,
+    "gridUsage": 0.77,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:06.245215",
+    "logTime": "2026-04-08T09:30:06.246694"
+  },
+  {
+    "solarYield": 2.56,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:11.245535",
+    "logTime": "2026-04-08T09:30:11.245888"
+  },
+  {
+    "solarYield": 2.34,
+    "gridUsage": 1.58,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:16.242982",
+    "logTime": "2026-04-08T09:30:16.247631"
+  },
+  {
+    "solarYield": 2.81,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:21.253029",
+    "logTime": "2026-04-08T09:30:21.257518"
+  },
+  {
+    "solarYield": 2.93,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:26.245576",
+    "logTime": "2026-04-08T09:30:26.247137"
+  },
+  {
+    "solarYield": 2.87,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:31.273938",
+    "logTime": "2026-04-08T09:30:31.275510"
+  },
+  {
+    "solarYield": 2.99,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:36.281429",
+    "logTime": "2026-04-08T09:30:36.282384"
+  },
+  {
+    "solarYield": 2.55,
+    "gridUsage": 0.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:41.292695",
+    "logTime": "2026-04-08T09:30:41.294026"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:46.303398",
+    "logTime": "2026-04-08T09:30:46.304583"
+  },
+  {
+    "solarYield": 2.75,
+    "gridUsage": 0.7,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:51.318111",
+    "logTime": "2026-04-08T09:30:51.321561"
+  },
+  {
+    "solarYield": 2.33,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:30:57.472466",
+    "logTime": "2026-04-08T09:30:57.479712"
+  },
+  {
+    "solarYield": 2.86,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:31:06.222215",
+    "logTime": "2026-04-08T09:31:06.222584"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 1.67,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:31:14.143131",
+    "logTime": "2026-04-08T09:31:14.144572"
+  },
+  {
+    "solarYield": 2.99,
+    "gridUsage": 0.97,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:31:30.757722",
+    "logTime": "2026-04-08T09:31:30.761217"
+  },
+  {
+    "solarYield": 2.95,
+    "gridUsage": 1.02,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:31:46.243130",
+    "logTime": "2026-04-08T09:31:46.244587"
+  },
+  {
+    "solarYield": 2.18,
+    "gridUsage": 1.14,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:32:06.171131",
+    "logTime": "2026-04-08T09:32:06.172888"
+  },
+  {
+    "solarYield": 2.74,
+    "gridUsage": 1.12,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:32:26.205873",
+    "logTime": "2026-04-08T09:32:26.206985"
+  },
+  {
+    "solarYield": 2.87,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:32:46.148207",
+    "logTime": "2026-04-08T09:32:46.151247"
+  },
+  {
+    "solarYield": 2.2,
+    "gridUsage": 1.28,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:33:06.245991",
+    "logTime": "2026-04-08T09:33:06.255168"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 1.17,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:33:26.242216",
+    "logTime": "2026-04-08T09:33:26.246844"
+  },
+  {
+    "solarYield": 2.33,
+    "gridUsage": 1.66,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:33:46.173734",
+    "logTime": "2026-04-08T09:33:46.174344"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:34:06.183819",
+    "logTime": "2026-04-08T09:34:06.185342"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 1.64,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:34:26.243193",
+    "logTime": "2026-04-08T09:34:26.246345"
+  },
+  {
+    "solarYield": 2.63,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:34:46.244423",
+    "logTime": "2026-04-08T09:34:46.244950"
+  },
+  {
+    "solarYield": 2.47,
+    "gridUsage": 1.29,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:01.074657",
+    "logTime": "2026-04-08T09:36:01.078208"
+  },
+  {
+    "solarYield": 2.59,
+    "gridUsage": 0.55,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:05.086049",
+    "logTime": "2026-04-08T09:36:05.087962"
+  },
+  {
+    "solarYield": 2.52,
+    "gridUsage": 0.99,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:08.181295",
+    "logTime": "2026-04-08T09:36:08.181882"
+  },
+  {
+    "solarYield": 2.76,
+    "gridUsage": 0.83,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:09.043072",
+    "logTime": "2026-04-08T09:36:09.044186"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.88,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:11.748408",
+    "logTime": "2026-04-08T09:36:11.753960"
+  },
+  {
+    "solarYield": 2.6,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:16.455206",
+    "logTime": "2026-04-08T09:36:16.455741"
+  },
+  {
+    "solarYield": 3.02,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:19.570640",
+    "logTime": "2026-04-08T09:36:19.571146"
+  },
+  {
+    "solarYield": 2.25,
+    "gridUsage": 0.82,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:21.924814",
+    "logTime": "2026-04-08T09:36:21.929589"
+  },
+  {
+    "solarYield": 2.83,
+    "gridUsage": 0.59,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:26.925973",
+    "logTime": "2026-04-08T09:36:26.927365"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 1.07,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:29.757260",
+    "logTime": "2026-04-08T09:36:29.761393"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:31.056708",
+    "logTime": "2026-04-08T09:36:31.057818"
+  },
+  {
+    "solarYield": 2.76,
+    "gridUsage": 0.62,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:32.289138",
+    "logTime": "2026-04-08T09:36:32.290218"
+  },
+  {
+    "solarYield": 2.73,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:37.291793",
+    "logTime": "2026-04-08T09:36:37.292405"
+  },
+  {
+    "solarYield": 2.48,
+    "gridUsage": 1.01,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:42.293486",
+    "logTime": "2026-04-08T09:36:42.294916"
+  },
+  {
+    "solarYield": 2.97,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:47.294387",
+    "logTime": "2026-04-08T09:36:47.295773"
+  },
+  {
+    "solarYield": 2.92,
+    "gridUsage": 0.62,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:52.296147",
+    "logTime": "2026-04-08T09:36:52.297551"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 1.22,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:36:57.296832",
+    "logTime": "2026-04-08T09:36:57.298114"
+  },
+  {
+    "solarYield": 2.85,
+    "gridUsage": 0.51,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:02.298645",
+    "logTime": "2026-04-08T09:37:02.306330"
+  },
+  {
+    "solarYield": 3.01,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:07.302532",
+    "logTime": "2026-04-08T09:37:07.303858"
+  },
+  {
+    "solarYield": 2.83,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:12.313628",
+    "logTime": "2026-04-08T09:37:12.314958"
+  },
+  {
+    "solarYield": 2.84,
+    "gridUsage": 1.06,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:17.323591",
+    "logTime": "2026-04-08T09:37:17.324958"
+  },
+  {
+    "solarYield": 2.75,
+    "gridUsage": 1.02,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:22.333285",
+    "logTime": "2026-04-08T09:37:22.334310"
+  },
+  {
+    "solarYield": 2.95,
+    "gridUsage": 0.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:27.342919",
+    "logTime": "2026-04-08T09:37:27.344227"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 1.21,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:32.352392",
+    "logTime": "2026-04-08T09:37:32.353736"
+  },
+  {
+    "solarYield": 2.64,
+    "gridUsage": 1.25,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:37.363589",
+    "logTime": "2026-04-08T09:37:37.364763"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 1.26,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:42.374305",
+    "logTime": "2026-04-08T09:37:42.377691"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 1.61,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:47.385348",
+    "logTime": "2026-04-08T09:37:47.390204"
+  },
+  {
+    "solarYield": 2.67,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:52.393457",
+    "logTime": "2026-04-08T09:37:52.396305"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 1.01,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:37:57.403212",
+    "logTime": "2026-04-08T09:37:57.405225"
+  },
+  {
+    "solarYield": 2.61,
+    "gridUsage": 1.33,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:02.413698",
+    "logTime": "2026-04-08T09:38:02.415117"
+  },
+  {
+    "solarYield": 2.37,
+    "gridUsage": 0.89,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:07.424166",
+    "logTime": "2026-04-08T09:38:07.425470"
+  },
+  {
+    "solarYield": 2.24,
+    "gridUsage": 1.08,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:12.433420",
+    "logTime": "2026-04-08T09:38:12.435029"
+  },
+  {
+    "solarYield": 3.02,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:17.443966",
+    "logTime": "2026-04-08T09:38:17.445375"
+  },
+  {
+    "solarYield": 2.61,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:22.454553",
+    "logTime": "2026-04-08T09:38:22.456239"
+  },
+  {
+    "solarYield": 3.07,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:27.464093",
+    "logTime": "2026-04-08T09:38:27.467573"
+  },
+  {
+    "solarYield": 2.21,
+    "gridUsage": 1.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:38:32.541870",
+    "logTime": "2026-04-08T09:38:32.548468"
+  },
+  {
+    "solarYield": 2.37,
+    "gridUsage": 1.19,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:14.667814",
+    "logTime": "2026-04-08T09:39:14.677720"
+  },
+  {
+    "solarYield": 2.53,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:18.707062",
+    "logTime": "2026-04-08T09:39:18.715314"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.54,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:23.716775",
+    "logTime": "2026-04-08T09:39:23.718403"
+  },
+  {
+    "solarYield": 2.61,
+    "gridUsage": 0.86,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:28.724904",
+    "logTime": "2026-04-08T09:39:28.726070"
+  },
+  {
+    "solarYield": 2.66,
+    "gridUsage": 0.68,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:33.737112",
+    "logTime": "2026-04-08T09:39:33.738072"
+  },
+  {
+    "solarYield": 2.38,
+    "gridUsage": 0.92,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:38.749999",
+    "logTime": "2026-04-08T09:39:38.755227"
+  },
+  {
+    "solarYield": 2.88,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:43.798106",
+    "logTime": "2026-04-08T09:39:43.803248"
+  },
+  {
+    "solarYield": 2.29,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:48.767844",
+    "logTime": "2026-04-08T09:39:48.769272"
+  },
+  {
+    "solarYield": 2.74,
+    "gridUsage": 0.56,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:53.779442",
+    "logTime": "2026-04-08T09:39:53.782154"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.02,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:39:58.790164",
+    "logTime": "2026-04-08T09:39:58.791490"
+  },
+  {
+    "solarYield": 2.43,
+    "gridUsage": 1.27,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:03.802878",
+    "logTime": "2026-04-08T09:40:03.803725"
+  },
+  {
+    "solarYield": 2.67,
+    "gridUsage": 1.0,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:08.985372",
+    "logTime": "2026-04-08T09:40:08.995304"
+  },
+  {
+    "solarYield": 2.73,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:15.340976",
+    "logTime": "2026-04-08T09:40:15.345807"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 0.55,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:26.050116",
+    "logTime": "2026-04-08T09:40:26.052230"
+  },
+  {
+    "solarYield": 2.75,
+    "gridUsage": 1.08,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:31.317536",
+    "logTime": "2026-04-08T09:40:31.321356"
+  },
+  {
+    "solarYield": 2.28,
+    "gridUsage": 0.95,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:37.521679",
+    "logTime": "2026-04-08T09:40:37.522541"
+  },
+  {
+    "solarYield": 2.69,
+    "gridUsage": 0.64,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:43.086427",
+    "logTime": "2026-04-08T09:40:43.089218"
+  },
+  {
+    "solarYield": 2.46,
+    "gridUsage": 0.67,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:47.304948",
+    "logTime": "2026-04-08T09:40:47.311052"
+  },
+  {
+    "solarYield": 2.82,
+    "gridUsage": 0.7,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:48.121439",
+    "logTime": "2026-04-08T09:40:48.123079"
+  },
+  {
+    "solarYield": 2.54,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:51.728616",
+    "logTime": "2026-04-08T09:40:51.733402"
+  },
+  {
+    "solarYield": 2.8,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:40:56.839172",
+    "logTime": "2026-04-08T09:40:56.844878"
+  },
+  {
+    "solarYield": 2.73,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:41:01.929142",
+    "logTime": "2026-04-08T09:41:01.930451"
+  },
+  {
+    "solarYield": 2.61,
+    "gridUsage": 0.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:41:07.024299",
+    "logTime": "2026-04-08T09:41:07.025157"
+  },
+  {
+    "solarYield": 2.25,
+    "gridUsage": 0.92,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:46:48.728608",
+    "logTime": "2026-04-08T09:46:48.735623"
+  },
+  {
+    "solarYield": 2.67,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:46:53.641518",
+    "logTime": "2026-04-08T09:46:53.645309"
+  },
+  {
+    "solarYield": 2.2,
+    "gridUsage": 0.97,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:46:58.637552",
+    "logTime": "2026-04-08T09:46:58.638877"
+  },
+  {
+    "solarYield": 3.07,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:03.652606",
+    "logTime": "2026-04-08T09:47:03.653935"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:08.663597",
+    "logTime": "2026-04-08T09:47:08.664923"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.95,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:13.673452",
+    "logTime": "2026-04-08T09:47:13.676297"
+  },
+  {
+    "solarYield": 2.38,
+    "gridUsage": 0.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:18.681958",
+    "logTime": "2026-04-08T09:47:18.682515"
+  },
+  {
+    "solarYield": 2.5,
+    "gridUsage": 0.89,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:23.693082",
+    "logTime": "2026-04-08T09:47:23.694388"
+  },
+  {
+    "solarYield": 2.82,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:28.703055",
+    "logTime": "2026-04-08T09:47:28.704570"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 0.69,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:33.713125",
+    "logTime": "2026-04-08T09:47:33.716276"
+  },
+  {
+    "solarYield": 2.51,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:38.722895",
+    "logTime": "2026-04-08T09:47:38.724264"
+  },
+  {
+    "solarYield": 2.3,
+    "gridUsage": 1.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:43.735088",
+    "logTime": "2026-04-08T09:47:43.739400"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:48.742143",
+    "logTime": "2026-04-08T09:47:48.742606"
+  },
+  {
+    "solarYield": 2.42,
+    "gridUsage": 1.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:53.753672",
+    "logTime": "2026-04-08T09:47:53.755034"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 0.88,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:47:58.761124",
+    "logTime": "2026-04-08T09:47:58.765303"
+  },
+  {
+    "solarYield": 2.53,
+    "gridUsage": 1.13,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:03.773266",
+    "logTime": "2026-04-08T09:48:03.774191"
+  },
+  {
+    "solarYield": 3.06,
+    "gridUsage": 0.83,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:08.783359",
+    "logTime": "2026-04-08T09:48:08.784940"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.87,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:13.793602",
+    "logTime": "2026-04-08T09:48:13.795196"
+  },
+  {
+    "solarYield": 2.66,
+    "gridUsage": 1.2,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:18.803755",
+    "logTime": "2026-04-08T09:48:18.804468"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.02,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:23.813604",
+    "logTime": "2026-04-08T09:48:23.814984"
+  },
+  {
+    "solarYield": 3.08,
+    "gridUsage": 0.69,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:28.825052",
+    "logTime": "2026-04-08T09:48:28.827868"
+  },
+  {
+    "solarYield": 2.27,
+    "gridUsage": 1.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:33.832907",
+    "logTime": "2026-04-08T09:48:33.835886"
+  },
+  {
+    "solarYield": 2.13,
+    "gridUsage": 1.55,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:38.843816",
+    "logTime": "2026-04-08T09:48:38.846786"
+  },
+  {
+    "solarYield": 2.25,
+    "gridUsage": 0.97,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:43.855336",
+    "logTime": "2026-04-08T09:48:43.857012"
+  },
+  {
+    "solarYield": 2.87,
+    "gridUsage": 0.63,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:48.863943",
+    "logTime": "2026-04-08T09:48:48.867529"
+  },
+  {
+    "solarYield": 2.18,
+    "gridUsage": 1.64,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:53.873634",
+    "logTime": "2026-04-08T09:48:53.876978"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:48:58.885038",
+    "logTime": "2026-04-08T09:48:58.886673"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.14,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:03.893208",
+    "logTime": "2026-04-08T09:49:03.896599"
+  },
+  {
+    "solarYield": 2.2,
+    "gridUsage": 1.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:08.903635",
+    "logTime": "2026-04-08T09:49:08.906003"
+  },
+  {
+    "solarYield": 2.27,
+    "gridUsage": 0.89,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:13.914087",
+    "logTime": "2026-04-08T09:49:13.917563"
+  },
+  {
+    "solarYield": 2.26,
+    "gridUsage": 1.6,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:18.926022",
+    "logTime": "2026-04-08T09:49:18.927578"
+  },
+  {
+    "solarYield": 2.15,
+    "gridUsage": 1.16,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:23.933673",
+    "logTime": "2026-04-08T09:49:23.934958"
+  },
+  {
+    "solarYield": 2.87,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:28.943884",
+    "logTime": "2026-04-08T09:49:28.947948"
+  },
+  {
+    "solarYield": 3.01,
+    "gridUsage": 0.53,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:33.954427",
+    "logTime": "2026-04-08T09:49:33.955819"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:38.964186",
+    "logTime": "2026-04-08T09:49:38.967013"
+  },
+  {
+    "solarYield": 2.7,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:43.974694",
+    "logTime": "2026-04-08T09:49:43.975915"
+  },
+  {
+    "solarYield": 2.14,
+    "gridUsage": 1.47,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:48.984661",
+    "logTime": "2026-04-08T09:49:48.990363"
+  },
+  {
+    "solarYield": 2.79,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:53.994103",
+    "logTime": "2026-04-08T09:49:53.995927"
+  },
+  {
+    "solarYield": 2.47,
+    "gridUsage": 1.47,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:49:59.004483",
+    "logTime": "2026-04-08T09:49:59.006053"
+  },
+  {
+    "solarYield": 2.34,
+    "gridUsage": 0.68,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:04.014214",
+    "logTime": "2026-04-08T09:50:04.017379"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 1.71,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:09.024040",
+    "logTime": "2026-04-08T09:50:09.027069"
+  },
+  {
+    "solarYield": 2.72,
+    "gridUsage": 0.71,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:14.141789",
+    "logTime": "2026-04-08T09:50:14.145671"
+  },
+  {
+    "solarYield": 2.6,
+    "gridUsage": 0.55,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:19.142189",
+    "logTime": "2026-04-08T09:50:19.148086"
+  },
+  {
+    "solarYield": 2.88,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:24.144168",
+    "logTime": "2026-04-08T09:50:24.144812"
+  },
+  {
+    "solarYield": 2.18,
+    "gridUsage": 0.77,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:29.153373",
+    "logTime": "2026-04-08T09:50:29.157749"
+  },
+  {
+    "solarYield": 2.5,
+    "gridUsage": 1.36,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:34.164617",
+    "logTime": "2026-04-08T09:50:34.165956"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 0.98,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:39.175544",
+    "logTime": "2026-04-08T09:50:39.177092"
+  },
+  {
+    "solarYield": 3.09,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:44.181016",
+    "logTime": "2026-04-08T09:50:44.181954"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.86,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:49.196202",
+    "logTime": "2026-04-08T09:50:49.199711"
+  },
+  {
+    "solarYield": 2.58,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:54.203666",
+    "logTime": "2026-04-08T09:50:54.204288"
+  },
+  {
+    "solarYield": 2.79,
+    "gridUsage": 0.57,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:50:59.216881",
+    "logTime": "2026-04-08T09:50:59.220788"
+  },
+  {
+    "solarYield": 2.43,
+    "gridUsage": 1.22,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:04.224772",
+    "logTime": "2026-04-08T09:51:04.225970"
+  },
+  {
+    "solarYield": 2.25,
+    "gridUsage": 0.89,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:09.234425",
+    "logTime": "2026-04-08T09:51:09.236122"
+  },
+  {
+    "solarYield": 2.6,
+    "gridUsage": 0.9,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:14.244669",
+    "logTime": "2026-04-08T09:51:14.246096"
+  },
+  {
+    "solarYield": 2.77,
+    "gridUsage": 0.92,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:19.253944",
+    "logTime": "2026-04-08T09:51:19.255409"
+  },
+  {
+    "solarYield": 2.96,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:24.264366",
+    "logTime": "2026-04-08T09:51:24.264914"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 1.3,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:29.274529",
+    "logTime": "2026-04-08T09:51:29.278332"
+  },
+  {
+    "solarYield": 2.58,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:34.284326",
+    "logTime": "2026-04-08T09:51:34.285766"
+  },
+  {
+    "solarYield": 2.71,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:39.293799",
+    "logTime": "2026-04-08T09:51:39.295202"
+  },
+  {
+    "solarYield": 2.62,
+    "gridUsage": 0.81,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:44.305317",
+    "logTime": "2026-04-08T09:51:44.306820"
+  },
+  {
+    "solarYield": 2.31,
+    "gridUsage": 1.48,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:49.314771",
+    "logTime": "2026-04-08T09:51:49.316449"
+  },
+  {
+    "solarYield": 2.18,
+    "gridUsage": 1.49,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:54.325421",
+    "logTime": "2026-04-08T09:51:54.326079"
+  },
+  {
+    "solarYield": 2.21,
+    "gridUsage": 1.06,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:51:59.334800",
+    "logTime": "2026-04-08T09:51:59.336395"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:04.345934",
+    "logTime": "2026-04-08T09:52:04.348677"
+  },
+  {
+    "solarYield": 2.74,
+    "gridUsage": 0.86,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:09.353260",
+    "logTime": "2026-04-08T09:52:09.354915"
+  },
+  {
+    "solarYield": 2.78,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:14.365105",
+    "logTime": "2026-04-08T09:52:14.366658"
+  },
+  {
+    "solarYield": 2.44,
+    "gridUsage": 0.98,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:19.477298",
+    "logTime": "2026-04-08T09:52:19.481851"
+  },
+  {
+    "solarYield": 2.22,
+    "gridUsage": 1.03,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:25.823665",
+    "logTime": "2026-04-08T09:52:25.828984"
+  },
+  {
+    "solarYield": 2.65,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:30.876950",
+    "logTime": "2026-04-08T09:52:30.882399"
+  },
+  {
+    "solarYield": 3.03,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:35.844104",
+    "logTime": "2026-04-08T09:52:35.844845"
+  },
+  {
+    "solarYield": 2.68,
+    "gridUsage": 0.61,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:40.854509",
+    "logTime": "2026-04-08T09:52:40.857211"
+  },
+  {
+    "solarYield": 2.52,
+    "gridUsage": 0.65,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:45.865824",
+    "logTime": "2026-04-08T09:52:45.869145"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 1.43,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:50.877406",
+    "logTime": "2026-04-08T09:52:50.882102"
+  },
+  {
+    "solarYield": 2.75,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:52:55.884679",
+    "logTime": "2026-04-08T09:52:55.886381"
+  },
+  {
+    "solarYield": 2.91,
+    "gridUsage": 1.04,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:00.895271",
+    "logTime": "2026-04-08T09:53:00.899524"
+  },
+  {
+    "solarYield": 3.0,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:05.903335",
+    "logTime": "2026-04-08T09:53:05.903819"
+  },
+  {
+    "solarYield": 3.0,
+    "gridUsage": 0.5,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:10.915716",
+    "logTime": "2026-04-08T09:53:10.918634"
+  },
+  {
+    "solarYield": 2.6,
+    "gridUsage": 0.59,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:15.925107",
+    "logTime": "2026-04-08T09:53:15.927297"
+  },
+  {
+    "solarYield": 2.84,
+    "gridUsage": 1.09,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:20.935910",
+    "logTime": "2026-04-08T09:53:20.937490"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 0.73,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:25.945688",
+    "logTime": "2026-04-08T09:53:25.947215"
+  },
+  {
+    "solarYield": 2.45,
+    "gridUsage": 0.57,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:30.954514",
+    "logTime": "2026-04-08T09:53:30.957953"
+  },
+  {
+    "solarYield": 2.12,
+    "gridUsage": 1.71,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:35.965237",
+    "logTime": "2026-04-08T09:53:35.965810"
+  },
+  {
+    "solarYield": 2.56,
+    "gridUsage": 1.42,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:40.975421",
+    "logTime": "2026-04-08T09:53:40.978442"
+  },
+  {
+    "solarYield": 2.78,
+    "gridUsage": 1.04,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:45.984976",
+    "logTime": "2026-04-08T09:53:45.987963"
+  },
+  {
+    "solarYield": 2.99,
+    "gridUsage": 0.79,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:50.994972",
+    "logTime": "2026-04-08T09:53:50.996610"
+  },
+  {
+    "solarYield": 2.52,
+    "gridUsage": 0.56,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:53:56.004166",
+    "logTime": "2026-04-08T09:53:56.005747"
+  },
+  {
+    "solarYield": 2.91,
+    "gridUsage": 0.52,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:54:01.015214",
+    "logTime": "2026-04-08T09:54:01.018338"
+  },
+  {
+    "solarYield": 2.43,
+    "gridUsage": 0.68,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:54:06.052442",
+    "logTime": "2026-04-08T09:54:06.072515"
+  },
+  {
+    "solarYield": 2.48,
+    "gridUsage": 1.1,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:54:11.890843",
+    "logTime": "2026-04-08T09:54:11.892778"
+  },
+  {
+    "solarYield": 2.36,
+    "gridUsage": 1.27,
+    "batteryLevel": 58,
+    "timestamp": "2026-04-08T09:59:55.560705",
+    "logTime": "2026-04-08T09:59:55.567968"
+  },
+  {
+    "solarYield": 3.15,
+    "gridUsage": 0.77,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:00.565987",
+    "logTime": "2026-04-08T10:00:00.578883"
+  },
+  {
+    "solarYield": 2.95,
+    "gridUsage": 0.77,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:06.369249",
+    "logTime": "2026-04-08T10:00:06.371410"
+  },
+  {
+    "solarYield": 3.53,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:14.922623",
+    "logTime": "2026-04-08T10:00:14.928070"
+  },
+  {
+    "solarYield": 3.39,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:43.821626",
+    "logTime": "2026-04-08T10:00:43.825442"
+  },
+  {
+    "solarYield": 3.9,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:48.906734",
+    "logTime": "2026-04-08T10:00:48.911595"
+  },
+  {
+    "solarYield": 3.02,
+    "gridUsage": 0.8,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:53.912887",
+    "logTime": "2026-04-08T10:00:53.914724"
+  },
+  {
+    "solarYield": 3.22,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:00:58.922930",
+    "logTime": "2026-04-08T10:00:58.925826"
+  },
+  {
+    "solarYield": 3.05,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:01:03.933601",
+    "logTime": "2026-04-08T10:01:03.935258"
+  },
+  {
+    "solarYield": 3.28,
+    "gridUsage": 0.55,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:01:09.045354",
+    "logTime": "2026-04-08T10:01:09.046620"
+  },
+  {
+    "solarYield": 3.01,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:01:14.999309",
+    "logTime": "2026-04-08T10:01:15.002916"
+  },
+  {
+    "solarYield": 3.4,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:03:59.345206",
+    "logTime": "2026-04-08T10:03:59.356245"
+  },
+  {
+    "solarYield": 3.43,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:04:04.365112",
+    "logTime": "2026-04-08T10:04:04.371423"
+  },
+  {
+    "solarYield": 3.02,
+    "gridUsage": 0.5,
+    "batteryLevel": 64,
+    "timestamp": "2026-04-08T10:04:10.819669",
+    "logTime": "2026-04-08T10:04:10.821028"
+  }
+]

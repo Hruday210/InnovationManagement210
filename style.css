@@ -1,0 +1,452 @@
+:root {
+  --bg-color: #0b0f19;
+  --panel-bg: rgba(20, 26, 43, 0.6);
+  --panel-border: rgba(255, 255, 255, 0.08);
+  --text-main: #f0f4f8;
+  --text-muted: #8a96a8;
+  
+  --solar-color: #fca311;
+  --solar-glow: rgba(252, 163, 17, 0.4);
+  --grid-color: #e63946;
+  --grid-glow: rgba(230, 57, 70, 0.4);
+  --battery-color: #06d6a0;
+  --battery-glow: rgba(6, 214, 160, 0.4);
+  
+  --card-radius: 20px;
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--bg-color);
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(252, 163, 17, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 85% 30%, rgba(6, 214, 160, 0.08) 0%, transparent 50%);
+  color: var(--text-main);
+  min-height: 100vh;
+  padding: 2rem;
+  overflow-x: hidden;
+}
+
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, #f0f4f8, #8a96a8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.5px;
+}
+
+.subtitle {
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.timestamp {
+  background: var(--panel-bg);
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  border: 1px solid var(--panel-border);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  backdrop-filter: blur(10px);
+}
+
+/* Base Panel / Glassmorphism */
+.glass-panel {
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--card-radius);
+  padding: 1.5rem;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+
+.glass-panel:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.4);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Grid Layout */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.secondary-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Gauges */
+.gauge-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.gauge-title {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gauge-circle {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.gauge-circle::before {
+  content: '';
+  position: absolute;
+  inset: 5px;
+  border-radius: 50%;
+  background: var(--bg-color);
+  z-index: 1;
+}
+
+.gauge-value-container {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gauge-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.gauge-unit {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+/* Specific Gauge Styles */
+.solar-gauge {
+  background: conic-gradient(var(--solar-color) var(--percentage, 0%), transparent 0);
+  box-shadow: 0 0 30px var(--solar-glow);
+}
+.solar-text { color: var(--solar-color); }
+
+.grid-gauge {
+  background: conic-gradient(var(--grid-color) var(--percentage, 0%), transparent 0);
+  box-shadow: 0 0 30px var(--grid-glow);
+}
+.grid-text { color: var(--grid-color); }
+
+.battery-gauge {
+  background: conic-gradient(var(--battery-color) var(--percentage, 0%), transparent 0);
+  box-shadow: 0 0 30px var(--battery-glow);
+}
+.battery-text { color: var(--battery-color); }
+
+/* Animation for loading/updates */
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+
+.live-indicator {
+  width: 8px;
+  height: 8px;
+  background-color: var(--battery-color);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+  animation: pulse 2s infinite;
+  box-shadow: 0 0 8px var(--battery-glow);
+}
+
+/* Optimization Panel */
+.optimization-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.panel-header {
+  font-size: 1.3rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--panel-border);
+  padding-bottom: 1rem;
+}
+
+.hint-box {
+  background: rgba(255,255,255,0.03);
+  border-left: 4px solid var(--text-muted);
+  padding: 1.25rem;
+  border-radius: 0 12px 12px 0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.hint-optimal { border-left-color: var(--battery-color); background: linear-gradient(90deg, rgba(6, 214, 160, 0.1) 0%, transparent 100%); }
+.hint-warning { border-left-color: var(--solar-color); background: linear-gradient(90deg, rgba(252, 163, 17, 0.1) 0%, transparent 100%); }
+.hint-suboptimal { border-left-color: var(--grid-color); background: linear-gradient(90deg, rgba(230, 57, 70, 0.1) 0%, transparent 100%); }
+
+/* Detailed Appliance List */
+.appliance-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.appliance-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background: rgba(255,255,255,0.03);
+  border-radius: 8px;
+  border-left: 3px solid transparent;
+  transition: var(--transition);
+}
+
+.appliance-row.is-active {
+  background: rgba(6, 214, 160, 0.05);
+}
+
+.appliance-row.action-turn_off { border-left-color: var(--grid-color); }
+.appliance-row.action-turn_on, .appliance-row.action-keep_on { border-left-color: var(--solar-color); }
+.appliance-row.action-none { border-left-color: rgba(255,255,255,0.1); }
+
+.appliance-info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex: 1;
+}
+
+.appliance-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(0,0,0,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: var(--text-muted);
+}
+.appliance-row.is-active .appliance-icon {
+  color: var(--battery-color);
+  background: rgba(6, 214, 160, 0.1);
+  box-shadow: 0 0 10px rgba(6, 214, 160, 0.2);
+}
+
+.appliance-text h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.appliance-text p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  max-width: 250px;
+}
+
+.appliance-stats {
+  text-align: right;
+  min-width: 80px;
+}
+.appliance-stats .kw {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--text-main);
+}
+.appliance-stats .status-badge {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.1);
+  margin-top: 0.4rem;
+  display: inline-block;
+  font-weight: 600;
+}
+.appliance-row.is-active .status-badge {
+  background: rgba(6, 214, 160, 0.2);
+  color: var(--battery-color);
+}
+
+/* Carbon Calculator Panel */
+.carbon-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(135deg, rgba(6, 214, 160, 0.1) 0%, rgba(20, 26, 43, 0.8) 100%);
+}
+
+.carbon-value {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--battery-color);
+  margin: 1rem 0;
+  text-shadow: 0 0 20px var(--battery-glow);
+}
+
+.carbon-trees {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  color: var(--text-main);
+  background: rgba(0,0,0,0.3);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+/* Period Toggle */
+.period-toggle {
+  display: flex;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding: 0.25rem;
+  box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.period-toggle button {
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.period-toggle button:hover {
+  color: var(--text-main);
+}
+
+.period-toggle button.active {
+  background: var(--panel-bg);
+  color: var(--battery-color);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .dashboard-grid, .secondary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Modals */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(11, 15, 25, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+.modal-content {
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--card-radius);
+  padding: 2rem;
+  width: 100%;
+  max-width: 800px;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.5);
+  position: relative;
+  animation: slideUp 0.3s ease-out forwards;
+}
+
+.modal-close {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.modal-close:hover {
+  color: var(--text-main);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(30px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.gauge-card {
+  cursor: pointer;
+}
+
